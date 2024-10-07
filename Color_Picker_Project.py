@@ -5,6 +5,7 @@ import numpy as np
 
 def cross(x):
     pass
+
 #create a black imgae
 img = np.zeros((300,512,3),np.uint8) #empty image
 cv2.namedWindow("Color Picker")
