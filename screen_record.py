@@ -6,7 +6,7 @@ import pyautogui as pg
 rs = pg.size()
 
 # filename in which we store recording
-fn = input("enter path")
+fn = input("enter path"
 # fix the frame rate
 fps = 40.0
 
