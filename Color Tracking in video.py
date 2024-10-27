@@ -2,7 +2,7 @@
 
 #detecting selected color in video  
 
-import cv
+import cv2
 import numpy as np
 """
 cap = cv2.VideoCapture(0)
